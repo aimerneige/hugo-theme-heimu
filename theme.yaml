@@ -1,0 +1,18 @@
+# theme.yaml configuration file
+
+name: Heimu
+license: GPLv3
+licenselink: https://github.com/aimerneige/hugo-theme-heimu/blob/main/LICENSE
+description: Hugo Theme Component Support Heimu
+homepage: https://github.com/aimerneige/hugo-theme-heimu
+tags:
+  - component
+  - heimu
+features:
+  - display heimu
+  - multilingual (en, zh)
+min_version: 0.40.0
+
+author:
+  name: Aimer Neige
+  homepage: https://aimerneige.com
